@@ -6,7 +6,7 @@ import { Button, Form, Container, InputGroup, FormControl } from 'react-bootstra
 import ContentsOnTheBlock from './artifacts/contracts/ContentsOnTheBlock.sol/ContentsOnTheBlock.json'
 
 // Update with the contract address logged out to the CLI when it was deployed 
-const contractAddress = "0x5FbDB2315678afecb367f032d93F642f64180aa3"
+const contractAddress = "0xB8df848EA61B52eeD961AC8451ec25c5bf5188C1"
 
 function App() {
   // store content in local state
